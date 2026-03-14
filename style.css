@@ -266,7 +266,7 @@ body{
     padding: 100px 0;    
     background-color: var(--color-primary);
     height: 100vh; 
-    background-image: url(../images/chair-ic.png);
+    background-image: url(images/chair-ic.png);
     background-repeat: no-repeat; 
     background-position: right bottom;  
     background-size: 300px;
