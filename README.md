@@ -7,7 +7,7 @@ O projeto tem como objetivo aplicar conceitos fundamentais de **HTML, CSS e Java
 ---
 
 ## 🔗 Visualizar o projeto
-
+<img src="preview.gif" alt="Preview do projeto" width="800">
 <a href="https://angelicalorenz.github.io/BarberShop/" target="_blank" rel="noopener noreferrer">
 👉 Acessar o site
 </a>
