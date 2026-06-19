@@ -37,5 +37,3 @@ Praticar habilidades essenciais do desenvolvimento web, como:
 
 **Angélica Daiane Lorenz**
 
-GitHub:  
-https://github.com/AngelicaLorenz
