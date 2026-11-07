@@ -33,7 +33,4 @@ Praticar habilidades essenciais do desenvolvimento web, como:
 
 ---
 
-## 👩‍💻 Autora
-
-**Angélica Daiane Lorenz**
 
